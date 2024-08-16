@@ -1,1 +1,1 @@
-# mern-blog-app
+# feedback app
